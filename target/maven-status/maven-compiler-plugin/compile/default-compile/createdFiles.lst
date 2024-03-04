@@ -1,0 +1,6 @@
+com\test\pages\PracticeSite2Page.class
+com\test\qa\base\TestBase.class
+com\test\pages\WelcomePage.class
+com\test\ExtentReportListener\ExtentReporterNG.class
+com\test\pages\PracticeSite1PageExcel.class
+com\test\util\TestUtil.class

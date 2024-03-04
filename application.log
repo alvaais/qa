@@ -1,0 +1,126 @@
+2024-02-29 10:31:53,869  INFO [main] WelcomePageTest:32 - Launching browser
+2024-02-29 10:31:57,048  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-02-29 10:31:57,060  INFO [main] WelcomePageTest:41 - validating page title
+2024-02-29 10:31:58,736  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-02-29 10:31:58,739  INFO [main] WelcomePageTest:32 - Launching browser
+2024-02-29 10:32:01,040  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-02-29 10:32:01,046  INFO [main] WelcomePageTest:49 - validating PracticeSite1
+2024-02-29 10:32:13,960  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-02-29 10:32:13,960  INFO [main] WelcomePageTest:32 - Launching browser
+2024-02-29 10:32:16,360  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-02-29 10:32:16,367  INFO [main] WelcomePageTest:57 - validating PracticeSite2
+2024-02-29 10:32:26,948  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-02-29 22:14:41,435 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-02-29 22:14:41,446 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-02-29 22:14:41,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-02-29 22:14:41,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-02-29 22:14:41,451 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-02-29 22:14:41,785 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-02-29 22:14:41,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-02-29 22:14:41,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-02-29 22:14:41,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-02-29 22:14:41,787 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 12:11:48,251  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:11:53,325  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:11:53,328  INFO [main] WelcomePageTest:41 - validating page title
+2024-03-01 12:11:53,658  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:11:53,661  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:11:55,472  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:11:55,639  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:11:55,643  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:11:57,361  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:11:57,362  INFO [main] WelcomePageTest:57 - validating PracticeSite2
+2024-03-01 12:11:57,671  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:13:57,488  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:14:00,085  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:14:00,088  INFO [main] WelcomePageTest:41 - validating page title
+2024-03-01 12:14:00,311  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:14:00,313  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:14:02,006  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:14:02,233  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:14:02,235  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:14:03,910  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:14:03,912  INFO [main] WelcomePageTest:57 - validating PracticeSite2
+2024-03-01 12:14:11,403  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:16:31,939  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:16:35,490  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:16:35,493  INFO [main] WelcomePageTest:41 - validating page title
+2024-03-01 12:16:35,822  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:16:35,824  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:16:37,692  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:16:37,925  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:16:37,928  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:16:39,614  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:16:39,616  INFO [main] WelcomePageTest:57 - validating PracticeSite2
+2024-03-01 12:16:46,722  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:17:21,253  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:17:23,690  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:17:23,693  INFO [main] WelcomePageTest:41 - validating page title
+2024-03-01 12:17:23,918  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:17:23,920  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:17:25,515  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:17:25,704  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:17:25,706  INFO [main] WelcomePageTest:32 - Launching browser
+2024-03-01 12:17:27,452  INFO [main] WelcomePageTest:35 - page launched successfully
+2024-03-01 12:17:27,454  INFO [main] WelcomePageTest:57 - validating PracticeSite2
+2024-03-01 12:17:34,804  INFO [main] WelcomePageTest:68 - Browser closed successfully
+2024-03-01 12:47:06,271 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 12:47:06,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 12:47:06,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 12:47:06,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 12:47:06,271 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 12:47:06,604 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 12:47:06,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 12:47:06,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 12:47:06,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 12:47:06,604 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 13:08:28,075 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 13:08:28,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 13:08:28,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 13:08:28,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 13:08:28,092 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 13:08:28,391 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 13:08:28,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 13:08:28,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 13:08:28,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 13:08:28,391 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 16:52:29,558 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 16:52:29,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 16:52:29,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 16:52:29,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 16:52:29,558 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 16:52:29,870 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 16:52:29,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 16:52:29,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 16:52:29,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 16:52:29,873 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 21:14:09,261 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 21:14:09,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 21:14:09,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 21:14:09,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 21:14:09,268 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 21:14:09,567 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 21:14:09,567 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 21:14:09,567 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 21:14:09,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 21:14:09,570 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 21:18:36,426 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 21:18:36,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 21:18:36,442 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 21:18:36,442 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 21:18:36,442 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 21:18:36,726 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 21:18:36,726 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 21:18:36,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 21:18:36,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 21:18:36,728 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 21:23:44,414 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 21:23:44,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 21:23:44,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 21:23:44,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 21:23:44,430 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-03-01 21:23:44,726 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-03-01 21:23:44,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-03-01 21:23:44,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-03-01 21:23:44,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-03-01 21:23:44,733 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aisha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
