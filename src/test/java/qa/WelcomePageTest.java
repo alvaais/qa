@@ -10,6 +10,12 @@ import com.test.pages.PracticeSite2Page;
 import com.test.pages.WelcomePage;
 import com.test.qa.base.TestBase;
 
+
+//Modified the existing test case to push to git ....no other change
+//dummy
+//dummy
+
+
 public class WelcomePageTest extends TestBase {
 	Logger log = Logger.getLogger(WelcomePageTest.class);
 	WelcomePage welcome;
